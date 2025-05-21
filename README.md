@@ -58,3 +58,4 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 "# translate" 
+https://stackoverflow.com/questions/53076270/http-request-to-local-json-file-not-working/53076363   -  resolved issue
